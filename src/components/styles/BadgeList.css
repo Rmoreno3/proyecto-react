@@ -1,0 +1,29 @@
+.list {
+  display: flex;
+  align-items: center;
+  background-color: #FFFFFF;
+  box-shadow: 0px 4px 5px 0px rgba(0, 0, 0, 0.23);
+  height: 90px;
+  margin: 2rem;
+  border-radius: 2%;
+}
+
+.list__names > span {
+  padding-right: 5px;
+}
+
+.list__avatar {
+  border-radius: 50%;
+  width: 90px;
+  height: 90px;
+  margin-right: 10px;
+}
+
+.list__twitter {
+  color: rgb(29 161 242);
+}
+
+.twitter__logo {
+  color: rgb(29 161 242);
+}
+
